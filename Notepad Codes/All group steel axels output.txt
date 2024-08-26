@@ -1,0 +1,440 @@
+Image: 29981-V11_Part-1_HV_All levels tempering.jpeg
+Ductility Percentage: 60.79%
+Brittleness Percentage: 39.21%
+
+Image: 29981-V11_Part-1_HV_Already 180C.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V14_Part-1_tempering-240C.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V14_Part-2_tempering-240C.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V3_Group-B_Part-1_Freund.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V6_Group-A_Part-1_Untempered.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V6_Group-B_Part-1_Friulpress.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V6_Group-C_Part-1_180C-h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V6_Group-D_Part-1_200C-h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V6_Group-E_Part-1_220C-h.jpeg
+Ductility Percentage: 65.05%
+Brittleness Percentage: 34.95%
+
+Image: 29981-V6_Group-F_Part-1_240C-h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: 29981-V6_Group-H_Part-1_HV.jpeg
+Ductility Percentage: 62.30%
+Brittleness Percentage: 37.70%
+
+Image: 29981-V6_Group-I_Part-1_220C-h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: Part 1 bending test MC-Feida.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: Part 2 bending test MC-Feida.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: Part 3 bending test MC-Feida.jpeg
+Ductility Percentage: 63.31%
+Brittleness Percentage: 36.69%
+
+Image: Version-11 Part 1 All tempering levels1.tiff
+Ductility Percentage: 73.82%
+Brittleness Percentage: 26.18%
+
+Image: Version-11 Part 1 All tempering levels10.tiff
+Ductility Percentage: 69.60%
+Brittleness Percentage: 30.40%
+
+Image: Version-11 Part 1 All tempering levels11.tiff
+Ductility Percentage: 67.31%
+Brittleness Percentage: 32.69%
+
+Image: Version-11 Part 1 All tempering levels2.tiff
+Ductility Percentage: 72.09%
+Brittleness Percentage: 27.91%
+
+Image: Version-11 Part 1 All tempering levels3.tiff
+Ductility Percentage: 72.56%
+Brittleness Percentage: 27.44%
+
+Image: Version-11 Part 1 All tempering levels4.tiff
+Ductility Percentage: 67.65%
+Brittleness Percentage: 32.35%
+
+Image: Version-11 Part 1 All tempering levels5.tiff
+Ductility Percentage: 72.83%
+Brittleness Percentage: 27.17%
+
+Image: Version-11 Part 1 All tempering levels6.tiff
+Ductility Percentage: 70.19%
+Brittleness Percentage: 29.81%
+
+Image: Version-11 Part 1 All tempering levels7.tiff
+Ductility Percentage: 70.05%
+Brittleness Percentage: 29.95%
+
+Image: Version-11 Part 1 All tempering levels8.tiff
+Ductility Percentage: 73.17%
+Brittleness Percentage: 26.83%
+
+Image: Version-11 Part 1 All tempering levels9.tiff
+Ductility Percentage: 68.13%
+Brittleness Percentage: 31.87%
+
+Image: Version-11 Part 1 Only hardness but 180C (1).tiff
+Ductility Percentage: 68.16%
+Brittleness Percentage: 31.84%
+
+Image: Version-11 Part 1 Only hardness but 180C (2).tiff
+Ductility Percentage: 71.28%
+Brittleness Percentage: 28.72%
+
+Image: Version-11 Part 1 Only hardness but 180C (3).tiff
+Ductility Percentage: 71.82%
+Brittleness Percentage: 28.18%
+
+Image: Version-11 Part 1 Only hardness but 180C (4).tiff
+Ductility Percentage: 67.49%
+Brittleness Percentage: 32.51%
+
+Image: Version-11 Part 1 Only hardness but 180C (5).tiff
+Ductility Percentage: 74.81%
+Brittleness Percentage: 25.19%
+
+Image: Version-11 Part 1 Only hardness but 180C (6).tiff
+Ductility Percentage: 67.35%
+Brittleness Percentage: 32.65%
+
+Image: Version-11 Part 1 Only hardness but 180C1.tiff
+Ductility Percentage: 70.21%
+Brittleness Percentage: 29.79%
+
+Image: Version-11 Part 1 Only hardness but 180C2.tiff
+Ductility Percentage: 65.06%
+Brittleness Percentage: 34.94%
+
+Image: Version-11 Part 1 Only hardness but 180C3.tiff
+Ductility Percentage: 69.50%
+Brittleness Percentage: 30.50%
+
+Image: Version-11 Part 1 Only hardness but 180C4.tiff
+Ductility Percentage: 65.83%
+Brittleness Percentage: 34.17%
+
+Image: Version-14 Part 1 Retempering 240C-h.tiff
+Ductility Percentage: 56.18%
+Brittleness Percentage: 43.82%
+
+Image: Version-14 Part 1 Retempering 240C-h1.tiff
+Ductility Percentage: 63.66%
+Brittleness Percentage: 36.34%
+
+Image: Version-14 Part 1 Retempering 240C-h10.tiff
+Ductility Percentage: 63.17%
+Brittleness Percentage: 36.83%
+
+Image: Version-14 Part 1 Retempering 240C-h11.tiff
+Ductility Percentage: 68.13%
+Brittleness Percentage: 31.87%
+
+Image: Version-14 Part 1 Retempering 240C-h12.tiff
+Ductility Percentage: 65.79%
+Brittleness Percentage: 34.21%
+
+Image: Version-14 Part 1 Retempering 240C-h13.tiff
+Ductility Percentage: 64.15%
+Brittleness Percentage: 35.85%
+
+Image: Version-14 Part 1 Retempering 240C-h14.tiff
+Ductility Percentage: 67.09%
+Brittleness Percentage: 32.91%
+
+Image: Version-14 Part 1 Retempering 240C-h2.tiff
+Ductility Percentage: 71.06%
+Brittleness Percentage: 28.94%
+
+Image: Version-14 Part 1 Retempering 240C-h3.tiff
+Ductility Percentage: 66.90%
+Brittleness Percentage: 33.10%
+
+Image: Version-14 Part 1 Retempering 240C-h4.tiff
+Ductility Percentage: 72.36%
+Brittleness Percentage: 27.64%
+
+Image: Version-14 Part 1 Retempering 240C-h5.tiff
+Ductility Percentage: 70.27%
+Brittleness Percentage: 29.73%
+
+Image: Version-14 Part 1 Retempering 240C-h6.tiff
+Ductility Percentage: 64.85%
+Brittleness Percentage: 35.15%
+
+Image: Version-14 Part 1 Retempering 240C-h7.tiff
+Ductility Percentage: 67.64%
+Brittleness Percentage: 32.36%
+
+Image: Version-14 Part 1 Retempering 240C-h8.tiff
+Ductility Percentage: 55.46%
+Brittleness Percentage: 44.54%
+
+Image: Version-14 Part 1 Retempering 240C-h9.tiff
+Ductility Percentage: 61.20%
+Brittleness Percentage: 38.80%
+
+Image: Version-14 Part 1 tempered 240C.tiff
+Ductility Percentage: 69.52%
+Brittleness Percentage: 30.48%
+
+Image: Version-14 Part 1 tempered 240C1.tiff
+Ductility Percentage: 68.26%
+Brittleness Percentage: 31.74%
+
+Image: Version-14 Part 1 tempered 240C10.tiff
+Ductility Percentage: 72.20%
+Brittleness Percentage: 27.80%
+
+Image: Version-14 Part 1 tempered 240C11.tiff
+Ductility Percentage: 72.59%
+Brittleness Percentage: 27.41%
+
+Image: Version-14 Part 1 tempered 240C12.tiff
+Ductility Percentage: 72.92%
+Brittleness Percentage: 27.08%
+
+Image: Version-14 Part 1 tempered 240C13.tiff
+Ductility Percentage: 68.25%
+Brittleness Percentage: 31.75%
+
+Image: Version-14 Part 1 tempered 240C14.tiff
+Ductility Percentage: 65.94%
+Brittleness Percentage: 34.06%
+
+Image: Version-14 Part 1 tempered 240C15.tiff
+Ductility Percentage: 77.84%
+Brittleness Percentage: 22.16%
+
+Image: Version-14 Part 1 tempered 240C2.tiff
+Ductility Percentage: 72.75%
+Brittleness Percentage: 27.25%
+
+Image: Version-14 Part 1 tempered 240C3.tiff
+Ductility Percentage: 72.51%
+Brittleness Percentage: 27.49%
+
+Image: Version-14 Part 1 tempered 240C4.tiff
+Ductility Percentage: 71.02%
+Brittleness Percentage: 28.98%
+
+Image: Version-14 Part 1 tempered 240C5.tiff
+Ductility Percentage: 65.78%
+Brittleness Percentage: 34.22%
+
+Image: Version-14 Part 1 tempered 240C6.tiff
+Ductility Percentage: 63.00%
+Brittleness Percentage: 37.00%
+
+Image: Version-14 Part 1 tempered 240C7.tiff
+Ductility Percentage: 72.97%
+Brittleness Percentage: 27.03%
+
+Image: Version-14 Part 1 tempered 240C8.tiff
+Ductility Percentage: 74.28%
+Brittleness Percentage: 25.72%
+
+Image: Version-14 Part 1 tempered 240C9.tiff
+Ductility Percentage: 71.33%
+Brittleness Percentage: 28.67%
+
+Image: Version-6 Part 1  Group-B Friulpress (1).tiff
+Ductility Percentage: 55.45%
+Brittleness Percentage: 44.55%
+
+Image: Version-6 Part 1  Group-B Friulpress (3).tiff
+Ductility Percentage: 68.07%
+Brittleness Percentage: 31.93%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (1).tiff
+Ductility Percentage: 72.82%
+Brittleness Percentage: 27.18%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (10).tiff
+Ductility Percentage: 57.65%
+Brittleness Percentage: 42.35%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (11).tiff
+Ductility Percentage: 67.38%
+Brittleness Percentage: 32.62%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (12).tiff
+Ductility Percentage: 73.31%
+Brittleness Percentage: 26.69%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (13).tiff
+Ductility Percentage: 71.07%
+Brittleness Percentage: 28.93%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (14).tiff
+Ductility Percentage: 63.13%
+Brittleness Percentage: 36.87%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (2).tiff
+Ductility Percentage: 55.18%
+Brittleness Percentage: 44.82%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (3).tiff
+Ductility Percentage: 63.37%
+Brittleness Percentage: 36.63%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (4).tiff
+Ductility Percentage: 58.85%
+Brittleness Percentage: 41.15%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (5).tiff
+Ductility Percentage: 74.37%
+Brittleness Percentage: 25.63%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (6).tiff
+Ductility Percentage: 72.90%
+Brittleness Percentage: 27.10%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (7).tiff
+Ductility Percentage: 70.28%
+Brittleness Percentage: 29.72%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (8).tiff
+Ductility Percentage: 52.86%
+Brittleness Percentage: 47.14%
+
+Image: Version-6 Part 1 Group-A-Untempered 14 (9).tiff
+Ductility Percentage: 61.32%
+Brittleness Percentage: 38.68%
+
+Image: Version-6 Part 1 Group-B Friulpress1.tiff
+Ductility Percentage: 46.67%
+Brittleness Percentage: 53.33%
+
+Image: Version-6 Part 1 Group-B Friulpress10.tiff
+Ductility Percentage: 70.23%
+Brittleness Percentage: 29.77%
+
+Image: Version-6 Part 1 Group-B Friulpress11.tiff
+Ductility Percentage: 72.82%
+Brittleness Percentage: 27.18%
+
+Image: Version-6 Part 1 Group-B Friulpress12.tiff
+Ductility Percentage: 71.69%
+Brittleness Percentage: 28.31%
+
+Image: Version-6 Part 1 Group-B Friulpress13.tiff
+Ductility Percentage: 74.02%
+Brittleness Percentage: 25.98%
+
+Image: Version-6 Part 1 Group-B Friulpress2.tiff
+Ductility Percentage: 76.58%
+Brittleness Percentage: 23.42%
+
+Image: Version-6 Part 1 Group-B Friulpress3.tiff
+Ductility Percentage: 67.65%
+Brittleness Percentage: 32.35%
+
+Image: Version-6 Part 1 Group-B Friulpress4.tiff
+Ductility Percentage: 71.28%
+Brittleness Percentage: 28.72%
+
+Image: Version-6 Part 1 Group-B Friulpress5.tiff
+Ductility Percentage: 73.80%
+Brittleness Percentage: 26.20%
+
+Image: Version-6 Part 1 Group-B Friulpress6.tiff
+Ductility Percentage: 62.31%
+Brittleness Percentage: 37.69%
+
+Image: Version-6 Part 1 Group-B Friulpress7.tiff
+Ductility Percentage: 63.26%
+Brittleness Percentage: 36.74%
+
+Image: Version-6 Part 1 Group-B Friulpress8.tiff
+Ductility Percentage: 72.50%
+Brittleness Percentage: 27.50%
+
+Image: Version-6 Part 1 Group-B Friulpress9.tiff
+Ductility Percentage: 68.38%
+Brittleness Percentage: 31.62%
+
+Image: Version-6 Part 1 Group-F 240C-h1.tiff
+Ductility Percentage: 63.70%
+Brittleness Percentage: 36.30%
+
+Image: Version-6 Part 1 Group-F 240C-h10.tiff
+Ductility Percentage: 64.47%
+Brittleness Percentage: 35.53%
+
+Image: Version-6 Part 1 Group-F 240C-h11.tiff
+Ductility Percentage: 71.69%
+Brittleness Percentage: 28.31%
+
+Image: Version-6 Part 1 Group-F 240C-h12.tiff
+Ductility Percentage: 65.97%
+Brittleness Percentage: 34.03%
+
+Image: Version-6 Part 1 Group-F 240C-h13.tiff
+Ductility Percentage: 74.38%
+Brittleness Percentage: 25.62%
+
+Image: Version-6 Part 1 Group-F 240C-h2.tiff
+Ductility Percentage: 76.66%
+Brittleness Percentage: 23.34%
+
+Image: Version-6 Part 1 Group-F 240C-h3.tiff
+Ductility Percentage: 77.56%
+Brittleness Percentage: 22.44%
+
+Image: Version-6 Part 1 Group-F 240C-h4.tiff
+Ductility Percentage: 64.13%
+Brittleness Percentage: 35.87%
+
+Image: Version-6 Part 1 Group-F 240C-h5.tiff
+Ductility Percentage: 71.22%
+Brittleness Percentage: 28.78%
+
+Image: Version-6 Part 1 Group-F 240C-h6.tiff
+Ductility Percentage: 75.09%
+Brittleness Percentage: 24.91%
+
+Image: Version-6 Part 1 Group-F 240C-h7.tiff
+Ductility Percentage: 68.47%
+Brittleness Percentage: 31.53%
+
+Image: Version-6 Part 1 Group-F 240C-h8.tiff
+Ductility Percentage: 75.51%
+Brittleness Percentage: 24.49%
+
+Image: Version-6 Part 1 Group-F 240C-h9.tiff
+Ductility Percentage: 75.39%
+Brittleness Percentage: 24.61%
+

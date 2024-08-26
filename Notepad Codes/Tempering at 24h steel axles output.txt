@@ -1,0 +1,56 @@
+Image: QUW23-Temperin at 240C-24h-Bottom1.tiff
+Ductility Percentage: 80.35%
+Brittleness Percentage: 19.65%
+
+Image: QUW23-Temperin at 240C-24h-Bottom4.tiff
+Ductility Percentage: 71.52%
+Brittleness Percentage: 28.48%
+
+Image: QUW23-Temperin at 240C-24h-Left.tiff
+Ductility Percentage: 77.10%
+Brittleness Percentage: 22.90%
+
+Image: QUW23-Temperin at 240C-24h-Left1.tiff
+Ductility Percentage: 46.80%
+Brittleness Percentage: 53.20%
+
+Image: QUW23-Temperin at 240C-24h-Left2.tiff
+Ductility Percentage: 66.61%
+Brittleness Percentage: 33.39%
+
+Image: QUW23-Temperin at 240C-24h-Left3.tiff
+Ductility Percentage: 47.78%
+Brittleness Percentage: 52.22%
+
+Image: QUW23-Temperin at 240C-24h-Left4.tiff
+Ductility Percentage: 61.16%
+Brittleness Percentage: 38.84%
+
+Image: QUW23-Temperin at 240C-24h-Left5.tiff
+Ductility Percentage: 65.61%
+Brittleness Percentage: 34.39%
+
+Image: QUW23-Temperin at 240C-24h-middle.tiff
+Ductility Percentage: 44.98%
+Brittleness Percentage: 55.02%
+
+Image: QUW23-Temperin at 240C-24h-Middle1.tiff
+Ductility Percentage: 68.22%
+Brittleness Percentage: 31.78%
+
+Image: QUW23-Temperin at 240C-24h-Top1.tiff
+Ductility Percentage: 50.51%
+Brittleness Percentage: 49.49%
+
+Image: QUW23-Temperin at 240C-24h-Top2.tiff
+Ductility Percentage: 70.20%
+Brittleness Percentage: 29.80%
+
+Image: QUW23-Temperin at 240C-24h-Top3.tiff
+Ductility Percentage: 68.10%
+Brittleness Percentage: 31.90%
+
+Image: QUW23-Tempering at 240C-24h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+

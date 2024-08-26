@@ -1,0 +1,20 @@
+Image: Part 1 - bending test MC-Freund-overview.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: Part 1 - bending test on Motor carrios (Freund)1.tiff
+Ductility Percentage: 54.91%
+Brittleness Percentage: 45.09%
+
+Image: Part 1 - bending test on Motor carrios (Freund)2.tiff
+Ductility Percentage: 54.49%
+Brittleness Percentage: 45.51%
+
+Image: Part 2- bending test MC-Freund- 2nd analysis.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: Part 2- bending test MC-Freund-overview.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+

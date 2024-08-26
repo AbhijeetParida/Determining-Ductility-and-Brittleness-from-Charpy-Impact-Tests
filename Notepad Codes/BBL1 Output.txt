@@ -1,0 +1,172 @@
+Image: Group A- Alredy tempered-Bottom1.tiff
+Ductility Percentage: 47.46%
+Brittleness Percentage: 52.54%
+
+Image: Group A- Alredy tempered-Bottom2.tiff
+Ductility Percentage: 58.09%
+Brittleness Percentage: 41.91%
+
+Image: Group A- Alredy tempered-Bottom3.tiff
+Ductility Percentage: 63.05%
+Brittleness Percentage: 36.95%
+
+Image: Group A- Alredy tempered-Bottom4.tiff
+Ductility Percentage: 65.03%
+Brittleness Percentage: 34.97%
+
+Image: Group A- Alredy tempered-Left (1).tiff
+Ductility Percentage: 52.24%
+Brittleness Percentage: 47.76%
+
+Image: Group A- Alredy tempered-Left (2).tiff
+Ductility Percentage: 66.91%
+Brittleness Percentage: 33.09%
+
+Image: Group A- Alredy tempered-Middle1 (2).tiff
+Ductility Percentage: 73.14%
+Brittleness Percentage: 26.86%
+
+Image: Group A- Alredy tempered-Middle1.tiff
+Ductility Percentage: 56.55%
+Brittleness Percentage: 43.45%
+
+Image: Group A- Alredy tempered-Middle2.tiff
+Ductility Percentage: 66.74%
+Brittleness Percentage: 33.26%
+
+Image: Group A- Alredy tempered-Middle3.tiff
+Ductility Percentage: 67.96%
+Brittleness Percentage: 32.04%
+
+Image: Group A- Alredy tempered-Middle4.tiff
+Ductility Percentage: 62.73%
+Brittleness Percentage: 37.27%
+
+Image: Group A- Alredy tempered-Right1.tiff
+Ductility Percentage: 56.74%
+Brittleness Percentage: 43.26%
+
+Image: Group A- Alredy tempered-Right2.tiff
+Ductility Percentage: 55.52%
+Brittleness Percentage: 44.48%
+
+Image: Group A- Alredy tempered-Right3.tiff
+Ductility Percentage: 62.30%
+Brittleness Percentage: 37.70%
+
+Image: Group A- Alredy tempered-Right4.tiff
+Ductility Percentage: 64.55%
+Brittleness Percentage: 35.45%
+
+Image: Group A- Alredy tempered-Right5.tiff
+Ductility Percentage: 65.45%
+Brittleness Percentage: 34.55%
+
+Image: Group A- Alredy tempered-Top1.tiff
+Ductility Percentage: 56.78%
+Brittleness Percentage: 43.22%
+
+Image: Group A- Alredy tempered-Top2.tiff
+Ductility Percentage: 67.97%
+Brittleness Percentage: 32.03%
+
+Image: Group A- Alredy tempered-Top3.tiff
+Ductility Percentage: 68.83%
+Brittleness Percentage: 31.17%
+
+Image: Group A- Alredy tempered-Top4.tiff
+Ductility Percentage: 68.61%
+Brittleness Percentage: 31.39%
+
+Image: Group E- Retempering at 240C-Bottom1.tiff
+Ductility Percentage: 52.67%
+Brittleness Percentage: 47.33%
+
+Image: Group E- Retempering at 240C-Bottom2.tiff
+Ductility Percentage: 66.72%
+Brittleness Percentage: 33.28%
+
+Image: Group E- Retempering at 240C-Bottom3.tiff
+Ductility Percentage: 84.30%
+Brittleness Percentage: 15.70%
+
+Image: Group E- Retempering at 240C-Left (1).tiff
+Ductility Percentage: 52.12%
+Brittleness Percentage: 47.88%
+
+Image: Group E- Retempering at 240C-Left (2).tiff
+Ductility Percentage: 61.56%
+Brittleness Percentage: 38.44%
+
+Image: Group E- Retempering at 240C-Left1.tiff
+Ductility Percentage: 61.75%
+Brittleness Percentage: 38.25%
+
+Image: Group E- Retempering at 240C-Left2.tiff
+Ductility Percentage: 61.30%
+Brittleness Percentage: 38.70%
+
+Image: Group E- Retempering at 240C-Middle1.tiff
+Ductility Percentage: 55.37%
+Brittleness Percentage: 44.63%
+
+Image: Group E- Retempering at 240C-Middle2.tiff
+Ductility Percentage: 62.01%
+Brittleness Percentage: 37.99%
+
+Image: Group E- Retempering at 240C-Middle3.tiff
+Ductility Percentage: 61.25%
+Brittleness Percentage: 38.75%
+
+Image: Group E- Retempering at 240C-Right (1).tiff
+Ductility Percentage: 64.32%
+Brittleness Percentage: 35.68%
+
+Image: Group E- Retempering at 240C-Right (2).tiff
+Ductility Percentage: 63.66%
+Brittleness Percentage: 36.34%
+
+Image: Group E- Retempering at 240C-Right1.tiff
+Ductility Percentage: 54.21%
+Brittleness Percentage: 45.79%
+
+Image: Group E- Retempering at 240C-Right2.tiff
+Ductility Percentage: 49.92%
+Brittleness Percentage: 50.08%
+
+Image: Group E- Retempering at 240C-Top (2).tiff
+Ductility Percentage: 60.39%
+Brittleness Percentage: 39.61%
+
+Image: Group E- Retempering at 240C-Top (3).tiff
+Ductility Percentage: 65.32%
+Brittleness Percentage: 34.68%
+
+Image: Group E- Retempering at 240C-Top.tiff
+Ductility Percentage: 52.50%
+Brittleness Percentage: 47.50%
+
+Image: Group E- Retempering at 240C-Top1.tiff
+Ductility Percentage: 66.22%
+Brittleness Percentage: 33.78%
+
+Image: QUW23-BBL1- Group B- Tempering at 180C-1h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: QUW23-BBL1-Group A- Already tempered.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: QUW23-BBL1-Group C-Tempering at 200C-1h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: QUW23-BBL1-Group D-Tempering at 220C-1h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+
+Image: QUW23-BBL1-Group E-Tempering at 240C-1h.jpeg
+Ductility Percentage: 0.00%
+Brittleness Percentage: 100.00%
+

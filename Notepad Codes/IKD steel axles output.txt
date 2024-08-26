@@ -1,0 +1,48 @@
+Image: QUW23-V12-IKD Axles Bottom (3).tiff
+Ductility Percentage: 55.64%
+Brittleness Percentage: 44.36%
+
+Image: QUW23-V12-IKD Axles Bottom (4).tiff
+Ductility Percentage: 62.65%
+Brittleness Percentage: 37.35%
+
+Image: QUW23-V12-IKD Axles Left (1).tiff
+Ductility Percentage: 52.94%
+Brittleness Percentage: 47.06%
+
+Image: QUW23-V12-IKD Axles Left (2).tiff
+Ductility Percentage: 59.93%
+Brittleness Percentage: 40.07%
+
+Image: QUW23-V12-IKD Axles Left (3).tiff
+Ductility Percentage: 60.99%
+Brittleness Percentage: 39.01%
+
+Image: QUW23-V12-IKD Axles Middle (1).tiff
+Ductility Percentage: 52.82%
+Brittleness Percentage: 47.18%
+
+Image: QUW23-V12-IKD Axles Middle (2).tiff
+Ductility Percentage: 65.93%
+Brittleness Percentage: 34.07%
+
+Image: QUW23-V12-IKD Axles Rigt (1).tiff
+Ductility Percentage: 53.86%
+Brittleness Percentage: 46.14%
+
+Image: QUW23-V12-IKD Axles Rigt (2).tiff
+Ductility Percentage: 65.98%
+Brittleness Percentage: 34.02%
+
+Image: QUW23-V12-IKD Axles Top (1).tiff
+Ductility Percentage: 55.72%
+Brittleness Percentage: 44.28%
+
+Image: QUW23-V12-IKD Axles Top (2).tiff
+Ductility Percentage: 63.18%
+Brittleness Percentage: 36.82%
+
+Image: QUW23-V12-IKD Axles Top (3).tiff
+Ductility Percentage: 71.02%
+Brittleness Percentage: 28.98%
+

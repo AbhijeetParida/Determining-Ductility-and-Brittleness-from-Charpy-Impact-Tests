@@ -1,0 +1,1608 @@
+Image: Group-F-240C-1h-part-4-1 (1).tiff
+Ductility Percentage: 53.51%
+Brittleness Percentage: 46.49%
+
+Image: Group-F-240C-1h-part-4-1 (10).tiff
+Ductility Percentage: 69.45%
+Brittleness Percentage: 30.55%
+
+Image: Group-F-240C-1h-part-4-1 (100).tiff
+Ductility Percentage: 56.75%
+Brittleness Percentage: 43.25%
+
+Image: Group-F-240C-1h-part-4-1 (101).tiff
+Ductility Percentage: 65.23%
+Brittleness Percentage: 34.77%
+
+Image: Group-F-240C-1h-part-4-1 (102).tiff
+Ductility Percentage: 65.15%
+Brittleness Percentage: 34.85%
+
+Image: Group-F-240C-1h-part-4-1 (103).tiff
+Ductility Percentage: 61.90%
+Brittleness Percentage: 38.10%
+
+Image: Group-F-240C-1h-part-4-1 (104).tiff
+Ductility Percentage: 65.26%
+Brittleness Percentage: 34.74%
+
+Image: Group-F-240C-1h-part-4-1 (105).tiff
+Ductility Percentage: 61.22%
+Brittleness Percentage: 38.78%
+
+Image: Group-F-240C-1h-part-4-1 (106).tiff
+Ductility Percentage: 59.18%
+Brittleness Percentage: 40.82%
+
+Image: Group-F-240C-1h-part-4-1 (107).tiff
+Ductility Percentage: 55.67%
+Brittleness Percentage: 44.33%
+
+Image: Group-F-240C-1h-part-4-1 (108).tiff
+Ductility Percentage: 60.58%
+Brittleness Percentage: 39.42%
+
+Image: Group-F-240C-1h-part-4-1 (109).tiff
+Ductility Percentage: 63.06%
+Brittleness Percentage: 36.94%
+
+Image: Group-F-240C-1h-part-4-1 (11).tiff
+Ductility Percentage: 69.65%
+Brittleness Percentage: 30.35%
+
+Image: Group-F-240C-1h-part-4-1 (110).tiff
+Ductility Percentage: 62.11%
+Brittleness Percentage: 37.89%
+
+Image: Group-F-240C-1h-part-4-1 (111).tiff
+Ductility Percentage: 61.16%
+Brittleness Percentage: 38.84%
+
+Image: Group-F-240C-1h-part-4-1 (112).tiff
+Ductility Percentage: 61.68%
+Brittleness Percentage: 38.32%
+
+Image: Group-F-240C-1h-part-4-1 (113).tiff
+Ductility Percentage: 63.11%
+Brittleness Percentage: 36.89%
+
+Image: Group-F-240C-1h-part-4-1 (114).tiff
+Ductility Percentage: 58.10%
+Brittleness Percentage: 41.90%
+
+Image: Group-F-240C-1h-part-4-1 (115).tiff
+Ductility Percentage: 61.89%
+Brittleness Percentage: 38.11%
+
+Image: Group-F-240C-1h-part-4-1 (116).tiff
+Ductility Percentage: 60.51%
+Brittleness Percentage: 39.49%
+
+Image: Group-F-240C-1h-part-4-1 (117).tiff
+Ductility Percentage: 55.73%
+Brittleness Percentage: 44.27%
+
+Image: Group-F-240C-1h-part-4-1 (118).tiff
+Ductility Percentage: 60.30%
+Brittleness Percentage: 39.70%
+
+Image: Group-F-240C-1h-part-4-1 (119).tiff
+Ductility Percentage: 57.80%
+Brittleness Percentage: 42.20%
+
+Image: Group-F-240C-1h-part-4-1 (12).tiff
+Ductility Percentage: 67.28%
+Brittleness Percentage: 32.72%
+
+Image: Group-F-240C-1h-part-4-1 (120).tiff
+Ductility Percentage: 59.12%
+Brittleness Percentage: 40.88%
+
+Image: Group-F-240C-1h-part-4-1 (121).tiff
+Ductility Percentage: 64.88%
+Brittleness Percentage: 35.12%
+
+Image: Group-F-240C-1h-part-4-1 (122).tiff
+Ductility Percentage: 64.21%
+Brittleness Percentage: 35.79%
+
+Image: Group-F-240C-1h-part-4-1 (123).tiff
+Ductility Percentage: 61.67%
+Brittleness Percentage: 38.33%
+
+Image: Group-F-240C-1h-part-4-1 (124).tiff
+Ductility Percentage: 61.11%
+Brittleness Percentage: 38.89%
+
+Image: Group-F-240C-1h-part-4-1 (125).tiff
+Ductility Percentage: 56.67%
+Brittleness Percentage: 43.33%
+
+Image: Group-F-240C-1h-part-4-1 (126).tiff
+Ductility Percentage: 58.30%
+Brittleness Percentage: 41.70%
+
+Image: Group-F-240C-1h-part-4-1 (127).tiff
+Ductility Percentage: 62.26%
+Brittleness Percentage: 37.74%
+
+Image: Group-F-240C-1h-part-4-1 (128).tiff
+Ductility Percentage: 62.50%
+Brittleness Percentage: 37.50%
+
+Image: Group-F-240C-1h-part-4-1 (129).tiff
+Ductility Percentage: 60.44%
+Brittleness Percentage: 39.56%
+
+Image: Group-F-240C-1h-part-4-1 (13).tiff
+Ductility Percentage: 69.06%
+Brittleness Percentage: 30.94%
+
+Image: Group-F-240C-1h-part-4-1 (130).tiff
+Ductility Percentage: 61.99%
+Brittleness Percentage: 38.01%
+
+Image: Group-F-240C-1h-part-4-1 (131).tiff
+Ductility Percentage: 59.56%
+Brittleness Percentage: 40.44%
+
+Image: Group-F-240C-1h-part-4-1 (132).tiff
+Ductility Percentage: 60.12%
+Brittleness Percentage: 39.88%
+
+Image: Group-F-240C-1h-part-4-1 (133).tiff
+Ductility Percentage: 59.26%
+Brittleness Percentage: 40.74%
+
+Image: Group-F-240C-1h-part-4-1 (134).tiff
+Ductility Percentage: 49.20%
+Brittleness Percentage: 50.80%
+
+Image: Group-F-240C-1h-part-4-1 (135).tiff
+Ductility Percentage: 66.55%
+Brittleness Percentage: 33.45%
+
+Image: Group-F-240C-1h-part-4-1 (136).tiff
+Ductility Percentage: 66.21%
+Brittleness Percentage: 33.79%
+
+Image: Group-F-240C-1h-part-4-1 (137).tiff
+Ductility Percentage: 57.01%
+Brittleness Percentage: 42.99%
+
+Image: Group-F-240C-1h-part-4-1 (138).tiff
+Ductility Percentage: 55.41%
+Brittleness Percentage: 44.59%
+
+Image: Group-F-240C-1h-part-4-1 (139).tiff
+Ductility Percentage: 58.25%
+Brittleness Percentage: 41.75%
+
+Image: Group-F-240C-1h-part-4-1 (14).tiff
+Ductility Percentage: 72.52%
+Brittleness Percentage: 27.48%
+
+Image: Group-F-240C-1h-part-4-1 (140).tiff
+Ductility Percentage: 63.88%
+Brittleness Percentage: 36.12%
+
+Image: Group-F-240C-1h-part-4-1 (141).tiff
+Ductility Percentage: 69.13%
+Brittleness Percentage: 30.87%
+
+Image: Group-F-240C-1h-part-4-1 (142).tiff
+Ductility Percentage: 66.64%
+Brittleness Percentage: 33.36%
+
+Image: Group-F-240C-1h-part-4-1 (143).tiff
+Ductility Percentage: 62.84%
+Brittleness Percentage: 37.16%
+
+Image: Group-F-240C-1h-part-4-1 (144).tiff
+Ductility Percentage: 63.89%
+Brittleness Percentage: 36.11%
+
+Image: Group-F-240C-1h-part-4-1 (145).tiff
+Ductility Percentage: 59.64%
+Brittleness Percentage: 40.36%
+
+Image: Group-F-240C-1h-part-4-1 (146).tiff
+Ductility Percentage: 67.18%
+Brittleness Percentage: 32.82%
+
+Image: Group-F-240C-1h-part-4-1 (147).tiff
+Ductility Percentage: 65.87%
+Brittleness Percentage: 34.13%
+
+Image: Group-F-240C-1h-part-4-1 (148).tiff
+Ductility Percentage: 62.45%
+Brittleness Percentage: 37.55%
+
+Image: Group-F-240C-1h-part-4-1 (149).tiff
+Ductility Percentage: 53.88%
+Brittleness Percentage: 46.12%
+
+Image: Group-F-240C-1h-part-4-1 (15).tiff
+Ductility Percentage: 71.91%
+Brittleness Percentage: 28.09%
+
+Image: Group-F-240C-1h-part-4-1 (150).tiff
+Ductility Percentage: 59.02%
+Brittleness Percentage: 40.98%
+
+Image: Group-F-240C-1h-part-4-1 (151).tiff
+Ductility Percentage: 63.78%
+Brittleness Percentage: 36.22%
+
+Image: Group-F-240C-1h-part-4-1 (152).tiff
+Ductility Percentage: 60.95%
+Brittleness Percentage: 39.05%
+
+Image: Group-F-240C-1h-part-4-1 (153).tiff
+Ductility Percentage: 59.19%
+Brittleness Percentage: 40.81%
+
+Image: Group-F-240C-1h-part-4-1 (154).tiff
+Ductility Percentage: 55.25%
+Brittleness Percentage: 44.75%
+
+Image: Group-F-240C-1h-part-4-1 (155).tiff
+Ductility Percentage: 58.81%
+Brittleness Percentage: 41.19%
+
+Image: Group-F-240C-1h-part-4-1 (156).tiff
+Ductility Percentage: 62.73%
+Brittleness Percentage: 37.27%
+
+Image: Group-F-240C-1h-part-4-1 (157).tiff
+Ductility Percentage: 63.91%
+Brittleness Percentage: 36.09%
+
+Image: Group-F-240C-1h-part-4-1 (158).tiff
+Ductility Percentage: 60.67%
+Brittleness Percentage: 39.33%
+
+Image: Group-F-240C-1h-part-4-1 (159).tiff
+Ductility Percentage: 59.51%
+Brittleness Percentage: 40.49%
+
+Image: Group-F-240C-1h-part-4-1 (16).tiff
+Ductility Percentage: 72.21%
+Brittleness Percentage: 27.79%
+
+Image: Group-F-240C-1h-part-4-1 (160).tiff
+Ductility Percentage: 57.52%
+Brittleness Percentage: 42.48%
+
+Image: Group-F-240C-1h-part-4-1 (161).tiff
+Ductility Percentage: 59.89%
+Brittleness Percentage: 40.11%
+
+Image: Group-F-240C-1h-part-4-1 (162).tiff
+Ductility Percentage: 61.89%
+Brittleness Percentage: 38.11%
+
+Image: Group-F-240C-1h-part-4-1 (163).tiff
+Ductility Percentage: 58.65%
+Brittleness Percentage: 41.35%
+
+Image: Group-F-240C-1h-part-4-1 (164).tiff
+Ductility Percentage: 61.75%
+Brittleness Percentage: 38.25%
+
+Image: Group-F-240C-1h-part-4-1 (165).tiff
+Ductility Percentage: 67.99%
+Brittleness Percentage: 32.01%
+
+Image: Group-F-240C-1h-part-4-1 (166).tiff
+Ductility Percentage: 64.20%
+Brittleness Percentage: 35.80%
+
+Image: Group-F-240C-1h-part-4-1 (167).tiff
+Ductility Percentage: 64.41%
+Brittleness Percentage: 35.59%
+
+Image: Group-F-240C-1h-part-4-1 (168).tiff
+Ductility Percentage: 63.74%
+Brittleness Percentage: 36.26%
+
+Image: Group-F-240C-1h-part-4-1 (169).tiff
+Ductility Percentage: 59.87%
+Brittleness Percentage: 40.13%
+
+Image: Group-F-240C-1h-part-4-1 (17).tiff
+Ductility Percentage: 71.46%
+Brittleness Percentage: 28.54%
+
+Image: Group-F-240C-1h-part-4-1 (170).tiff
+Ductility Percentage: 60.74%
+Brittleness Percentage: 39.26%
+
+Image: Group-F-240C-1h-part-4-1 (171).tiff
+Ductility Percentage: 63.34%
+Brittleness Percentage: 36.66%
+
+Image: Group-F-240C-1h-part-4-1 (172).tiff
+Ductility Percentage: 58.89%
+Brittleness Percentage: 41.11%
+
+Image: Group-F-240C-1h-part-4-1 (173).tiff
+Ductility Percentage: 59.07%
+Brittleness Percentage: 40.93%
+
+Image: Group-F-240C-1h-part-4-1 (174).tiff
+Ductility Percentage: 62.46%
+Brittleness Percentage: 37.54%
+
+Image: Group-F-240C-1h-part-4-1 (175).tiff
+Ductility Percentage: 65.87%
+Brittleness Percentage: 34.13%
+
+Image: Group-F-240C-1h-part-4-1 (176).tiff
+Ductility Percentage: 70.91%
+Brittleness Percentage: 29.09%
+
+Image: Group-F-240C-1h-part-4-1 (177).tiff
+Ductility Percentage: 70.72%
+Brittleness Percentage: 29.28%
+
+Image: Group-F-240C-1h-part-4-1 (178).tiff
+Ductility Percentage: 62.39%
+Brittleness Percentage: 37.61%
+
+Image: Group-F-240C-1h-part-4-1 (179).tiff
+Ductility Percentage: 60.54%
+Brittleness Percentage: 39.46%
+
+Image: Group-F-240C-1h-part-4-1 (18).tiff
+Ductility Percentage: 69.61%
+Brittleness Percentage: 30.39%
+
+Image: Group-F-240C-1h-part-4-1 (180).tiff
+Ductility Percentage: 66.82%
+Brittleness Percentage: 33.18%
+
+Image: Group-F-240C-1h-part-4-1 (181).tiff
+Ductility Percentage: 67.37%
+Brittleness Percentage: 32.63%
+
+Image: Group-F-240C-1h-part-4-1 (182).tiff
+Ductility Percentage: 64.87%
+Brittleness Percentage: 35.13%
+
+Image: Group-F-240C-1h-part-4-1 (183).tiff
+Ductility Percentage: 68.24%
+Brittleness Percentage: 31.76%
+
+Image: Group-F-240C-1h-part-4-1 (184).tiff
+Ductility Percentage: 70.83%
+Brittleness Percentage: 29.17%
+
+Image: Group-F-240C-1h-part-4-1 (185).tiff
+Ductility Percentage: 70.00%
+Brittleness Percentage: 30.00%
+
+Image: Group-F-240C-1h-part-4-1 (186).tiff
+Ductility Percentage: 70.47%
+Brittleness Percentage: 29.53%
+
+Image: Group-F-240C-1h-part-4-1 (187).tiff
+Ductility Percentage: 69.88%
+Brittleness Percentage: 30.12%
+
+Image: Group-F-240C-1h-part-4-1 (188).tiff
+Ductility Percentage: 68.43%
+Brittleness Percentage: 31.57%
+
+Image: Group-F-240C-1h-part-4-1 (189).tiff
+Ductility Percentage: 65.48%
+Brittleness Percentage: 34.52%
+
+Image: Group-F-240C-1h-part-4-1 (19).tiff
+Ductility Percentage: 69.05%
+Brittleness Percentage: 30.95%
+
+Image: Group-F-240C-1h-part-4-1 (190).tiff
+Ductility Percentage: 64.05%
+Brittleness Percentage: 35.95%
+
+Image: Group-F-240C-1h-part-4-1 (191).tiff
+Ductility Percentage: 72.17%
+Brittleness Percentage: 27.83%
+
+Image: Group-F-240C-1h-part-4-1 (192).tiff
+Ductility Percentage: 70.34%
+Brittleness Percentage: 29.66%
+
+Image: Group-F-240C-1h-part-4-1 (193).tiff
+Ductility Percentage: 66.65%
+Brittleness Percentage: 33.35%
+
+Image: Group-F-240C-1h-part-4-1 (194).tiff
+Ductility Percentage: 66.09%
+Brittleness Percentage: 33.91%
+
+Image: Group-F-240C-1h-part-4-1 (195).tiff
+Ductility Percentage: 65.96%
+Brittleness Percentage: 34.04%
+
+Image: Group-F-240C-1h-part-4-1 (196).tiff
+Ductility Percentage: 66.13%
+Brittleness Percentage: 33.87%
+
+Image: Group-F-240C-1h-part-4-1 (197).tiff
+Ductility Percentage: 66.92%
+Brittleness Percentage: 33.08%
+
+Image: Group-F-240C-1h-part-4-1 (198).tiff
+Ductility Percentage: 69.67%
+Brittleness Percentage: 30.33%
+
+Image: Group-F-240C-1h-part-4-1 (199).tiff
+Ductility Percentage: 67.26%
+Brittleness Percentage: 32.74%
+
+Image: Group-F-240C-1h-part-4-1 (2).tiff
+Ductility Percentage: 61.13%
+Brittleness Percentage: 38.87%
+
+Image: Group-F-240C-1h-part-4-1 (20).tiff
+Ductility Percentage: 69.32%
+Brittleness Percentage: 30.68%
+
+Image: Group-F-240C-1h-part-4-1 (200).tiff
+Ductility Percentage: 65.23%
+Brittleness Percentage: 34.77%
+
+Image: Group-F-240C-1h-part-4-1 (201).tiff
+Ductility Percentage: 66.77%
+Brittleness Percentage: 33.23%
+
+Image: Group-F-240C-1h-part-4-1 (202).tiff
+Ductility Percentage: 65.94%
+Brittleness Percentage: 34.06%
+
+Image: Group-F-240C-1h-part-4-1 (203).tiff
+Ductility Percentage: 68.77%
+Brittleness Percentage: 31.23%
+
+Image: Group-F-240C-1h-part-4-1 (204).tiff
+Ductility Percentage: 66.71%
+Brittleness Percentage: 33.29%
+
+Image: Group-F-240C-1h-part-4-1 (205).tiff
+Ductility Percentage: 70.23%
+Brittleness Percentage: 29.77%
+
+Image: Group-F-240C-1h-part-4-1 (206).tiff
+Ductility Percentage: 67.28%
+Brittleness Percentage: 32.72%
+
+Image: Group-F-240C-1h-part-4-1 (207).tiff
+Ductility Percentage: 69.39%
+Brittleness Percentage: 30.61%
+
+Image: Group-F-240C-1h-part-4-1 (208).tiff
+Ductility Percentage: 69.70%
+Brittleness Percentage: 30.30%
+
+Image: Group-F-240C-1h-part-4-1 (209).tiff
+Ductility Percentage: 69.69%
+Brittleness Percentage: 30.31%
+
+Image: Group-F-240C-1h-part-4-1 (21).tiff
+Ductility Percentage: 71.87%
+Brittleness Percentage: 28.13%
+
+Image: Group-F-240C-1h-part-4-1 (210).tiff
+Ductility Percentage: 65.59%
+Brittleness Percentage: 34.41%
+
+Image: Group-F-240C-1h-part-4-1 (211).tiff
+Ductility Percentage: 68.10%
+Brittleness Percentage: 31.90%
+
+Image: Group-F-240C-1h-part-4-1 (212).tiff
+Ductility Percentage: 69.81%
+Brittleness Percentage: 30.19%
+
+Image: Group-F-240C-1h-part-4-1 (213).tiff
+Ductility Percentage: 72.28%
+Brittleness Percentage: 27.72%
+
+Image: Group-F-240C-1h-part-4-1 (214).tiff
+Ductility Percentage: 70.93%
+Brittleness Percentage: 29.07%
+
+Image: Group-F-240C-1h-part-4-1 (215).tiff
+Ductility Percentage: 67.06%
+Brittleness Percentage: 32.94%
+
+Image: Group-F-240C-1h-part-4-1 (216).tiff
+Ductility Percentage: 77.52%
+Brittleness Percentage: 22.48%
+
+Image: Group-F-240C-1h-part-4-1 (217).tiff
+Ductility Percentage: 77.73%
+Brittleness Percentage: 22.27%
+
+Image: Group-F-240C-1h-part-4-1 (218).tiff
+Ductility Percentage: 72.78%
+Brittleness Percentage: 27.22%
+
+Image: Group-F-240C-1h-part-4-1 (219).tiff
+Ductility Percentage: 66.90%
+Brittleness Percentage: 33.10%
+
+Image: Group-F-240C-1h-part-4-1 (22).tiff
+Ductility Percentage: 69.20%
+Brittleness Percentage: 30.80%
+
+Image: Group-F-240C-1h-part-4-1 (220).tiff
+Ductility Percentage: 63.62%
+Brittleness Percentage: 36.38%
+
+Image: Group-F-240C-1h-part-4-1 (221).tiff
+Ductility Percentage: 67.89%
+Brittleness Percentage: 32.11%
+
+Image: Group-F-240C-1h-part-4-1 (222).tiff
+Ductility Percentage: 67.63%
+Brittleness Percentage: 32.37%
+
+Image: Group-F-240C-1h-part-4-1 (223).tiff
+Ductility Percentage: 66.78%
+Brittleness Percentage: 33.22%
+
+Image: Group-F-240C-1h-part-4-1 (224).tiff
+Ductility Percentage: 71.78%
+Brittleness Percentage: 28.22%
+
+Image: Group-F-240C-1h-part-4-1 (225).tiff
+Ductility Percentage: 68.20%
+Brittleness Percentage: 31.80%
+
+Image: Group-F-240C-1h-part-4-1 (226).tiff
+Ductility Percentage: 65.93%
+Brittleness Percentage: 34.07%
+
+Image: Group-F-240C-1h-part-4-1 (227).tiff
+Ductility Percentage: 70.41%
+Brittleness Percentage: 29.59%
+
+Image: Group-F-240C-1h-part-4-1 (228).tiff
+Ductility Percentage: 70.45%
+Brittleness Percentage: 29.55%
+
+Image: Group-F-240C-1h-part-4-1 (229).tiff
+Ductility Percentage: 66.97%
+Brittleness Percentage: 33.03%
+
+Image: Group-F-240C-1h-part-4-1 (23).tiff
+Ductility Percentage: 68.50%
+Brittleness Percentage: 31.50%
+
+Image: Group-F-240C-1h-part-4-1 (230).tiff
+Ductility Percentage: 67.25%
+Brittleness Percentage: 32.75%
+
+Image: Group-F-240C-1h-part-4-1 (231).tiff
+Ductility Percentage: 67.93%
+Brittleness Percentage: 32.07%
+
+Image: Group-F-240C-1h-part-4-1 (232).tiff
+Ductility Percentage: 64.38%
+Brittleness Percentage: 35.62%
+
+Image: Group-F-240C-1h-part-4-1 (233).tiff
+Ductility Percentage: 63.43%
+Brittleness Percentage: 36.57%
+
+Image: Group-F-240C-1h-part-4-1 (234).tiff
+Ductility Percentage: 66.04%
+Brittleness Percentage: 33.96%
+
+Image: Group-F-240C-1h-part-4-1 (235).tiff
+Ductility Percentage: 61.27%
+Brittleness Percentage: 38.73%
+
+Image: Group-F-240C-1h-part-4-1 (236).tiff
+Ductility Percentage: 68.82%
+Brittleness Percentage: 31.18%
+
+Image: Group-F-240C-1h-part-4-1 (237).tiff
+Ductility Percentage: 67.06%
+Brittleness Percentage: 32.94%
+
+Image: Group-F-240C-1h-part-4-1 (238).tiff
+Ductility Percentage: 59.90%
+Brittleness Percentage: 40.10%
+
+Image: Group-F-240C-1h-part-4-1 (239).tiff
+Ductility Percentage: 60.95%
+Brittleness Percentage: 39.05%
+
+Image: Group-F-240C-1h-part-4-1 (24).tiff
+Ductility Percentage: 70.60%
+Brittleness Percentage: 29.40%
+
+Image: Group-F-240C-1h-part-4-1 (240).tiff
+Ductility Percentage: 61.08%
+Brittleness Percentage: 38.92%
+
+Image: Group-F-240C-1h-part-4-1 (241).tiff
+Ductility Percentage: 63.16%
+Brittleness Percentage: 36.84%
+
+Image: Group-F-240C-1h-part-4-1 (242).tiff
+Ductility Percentage: 68.23%
+Brittleness Percentage: 31.77%
+
+Image: Group-F-240C-1h-part-4-1 (243).tiff
+Ductility Percentage: 63.46%
+Brittleness Percentage: 36.54%
+
+Image: Group-F-240C-1h-part-4-1 (244).tiff
+Ductility Percentage: 66.62%
+Brittleness Percentage: 33.38%
+
+Image: Group-F-240C-1h-part-4-1 (245).tiff
+Ductility Percentage: 73.11%
+Brittleness Percentage: 26.89%
+
+Image: Group-F-240C-1h-part-4-1 (246).tiff
+Ductility Percentage: 69.27%
+Brittleness Percentage: 30.73%
+
+Image: Group-F-240C-1h-part-4-1 (247).tiff
+Ductility Percentage: 69.98%
+Brittleness Percentage: 30.02%
+
+Image: Group-F-240C-1h-part-4-1 (248).tiff
+Ductility Percentage: 71.55%
+Brittleness Percentage: 28.45%
+
+Image: Group-F-240C-1h-part-4-1 (249).tiff
+Ductility Percentage: 67.60%
+Brittleness Percentage: 32.40%
+
+Image: Group-F-240C-1h-part-4-1 (25).tiff
+Ductility Percentage: 70.94%
+Brittleness Percentage: 29.06%
+
+Image: Group-F-240C-1h-part-4-1 (250).tiff
+Ductility Percentage: 64.87%
+Brittleness Percentage: 35.13%
+
+Image: Group-F-240C-1h-part-4-1 (251).tiff
+Ductility Percentage: 68.14%
+Brittleness Percentage: 31.86%
+
+Image: Group-F-240C-1h-part-4-1 (252).tiff
+Ductility Percentage: 67.80%
+Brittleness Percentage: 32.20%
+
+Image: Group-F-240C-1h-part-4-1 (253).tiff
+Ductility Percentage: 69.48%
+Brittleness Percentage: 30.52%
+
+Image: Group-F-240C-1h-part-4-1 (254).tiff
+Ductility Percentage: 69.38%
+Brittleness Percentage: 30.62%
+
+Image: Group-F-240C-1h-part-4-1 (255).tiff
+Ductility Percentage: 69.69%
+Brittleness Percentage: 30.31%
+
+Image: Group-F-240C-1h-part-4-1 (256).tiff
+Ductility Percentage: 70.95%
+Brittleness Percentage: 29.05%
+
+Image: Group-F-240C-1h-part-4-1 (257).tiff
+Ductility Percentage: 75.01%
+Brittleness Percentage: 24.99%
+
+Image: Group-F-240C-1h-part-4-1 (258).tiff
+Ductility Percentage: 73.16%
+Brittleness Percentage: 26.84%
+
+Image: Group-F-240C-1h-part-4-1 (259).tiff
+Ductility Percentage: 61.79%
+Brittleness Percentage: 38.21%
+
+Image: Group-F-240C-1h-part-4-1 (26).tiff
+Ductility Percentage: 70.08%
+Brittleness Percentage: 29.92%
+
+Image: Group-F-240C-1h-part-4-1 (260).tiff
+Ductility Percentage: 65.14%
+Brittleness Percentage: 34.86%
+
+Image: Group-F-240C-1h-part-4-1 (261).tiff
+Ductility Percentage: 66.84%
+Brittleness Percentage: 33.16%
+
+Image: Group-F-240C-1h-part-4-1 (262).tiff
+Ductility Percentage: 64.79%
+Brittleness Percentage: 35.21%
+
+Image: Group-F-240C-1h-part-4-1 (263).tiff
+Ductility Percentage: 60.76%
+Brittleness Percentage: 39.24%
+
+Image: Group-F-240C-1h-part-4-1 (264).tiff
+Ductility Percentage: 61.83%
+Brittleness Percentage: 38.17%
+
+Image: Group-F-240C-1h-part-4-1 (265).tiff
+Ductility Percentage: 63.72%
+Brittleness Percentage: 36.28%
+
+Image: Group-F-240C-1h-part-4-1 (266).tiff
+Ductility Percentage: 62.66%
+Brittleness Percentage: 37.34%
+
+Image: Group-F-240C-1h-part-4-1 (267).tiff
+Ductility Percentage: 59.03%
+Brittleness Percentage: 40.97%
+
+Image: Group-F-240C-1h-part-4-1 (268).tiff
+Ductility Percentage: 53.46%
+Brittleness Percentage: 46.54%
+
+Image: Group-F-240C-1h-part-4-1 (269).tiff
+Ductility Percentage: 56.13%
+Brittleness Percentage: 43.87%
+
+Image: Group-F-240C-1h-part-4-1 (27).tiff
+Ductility Percentage: 70.50%
+Brittleness Percentage: 29.50%
+
+Image: Group-F-240C-1h-part-4-1 (270).tiff
+Ductility Percentage: 54.76%
+Brittleness Percentage: 45.24%
+
+Image: Group-F-240C-1h-part-4-1 (271).tiff
+Ductility Percentage: 62.44%
+Brittleness Percentage: 37.56%
+
+Image: Group-F-240C-1h-part-4-1 (272).tiff
+Ductility Percentage: 58.69%
+Brittleness Percentage: 41.31%
+
+Image: Group-F-240C-1h-part-4-1 (273).tiff
+Ductility Percentage: 61.26%
+Brittleness Percentage: 38.74%
+
+Image: Group-F-240C-1h-part-4-1 (274).tiff
+Ductility Percentage: 59.14%
+Brittleness Percentage: 40.86%
+
+Image: Group-F-240C-1h-part-4-1 (275).tiff
+Ductility Percentage: 60.96%
+Brittleness Percentage: 39.04%
+
+Image: Group-F-240C-1h-part-4-1 (276).tiff
+Ductility Percentage: 58.50%
+Brittleness Percentage: 41.50%
+
+Image: Group-F-240C-1h-part-4-1 (277).tiff
+Ductility Percentage: 62.99%
+Brittleness Percentage: 37.01%
+
+Image: Group-F-240C-1h-part-4-1 (278).tiff
+Ductility Percentage: 65.88%
+Brittleness Percentage: 34.12%
+
+Image: Group-F-240C-1h-part-4-1 (279).tiff
+Ductility Percentage: 67.01%
+Brittleness Percentage: 32.99%
+
+Image: Group-F-240C-1h-part-4-1 (28).tiff
+Ductility Percentage: 69.18%
+Brittleness Percentage: 30.82%
+
+Image: Group-F-240C-1h-part-4-1 (280).tiff
+Ductility Percentage: 57.72%
+Brittleness Percentage: 42.28%
+
+Image: Group-F-240C-1h-part-4-1 (281).tiff
+Ductility Percentage: 58.21%
+Brittleness Percentage: 41.79%
+
+Image: Group-F-240C-1h-part-4-1 (282).tiff
+Ductility Percentage: 60.83%
+Brittleness Percentage: 39.17%
+
+Image: Group-F-240C-1h-part-4-1 (283).tiff
+Ductility Percentage: 55.62%
+Brittleness Percentage: 44.38%
+
+Image: Group-F-240C-1h-part-4-1 (284).tiff
+Ductility Percentage: 60.78%
+Brittleness Percentage: 39.22%
+
+Image: Group-F-240C-1h-part-4-1 (285).tiff
+Ductility Percentage: 60.43%
+Brittleness Percentage: 39.57%
+
+Image: Group-F-240C-1h-part-4-1 (286).tiff
+Ductility Percentage: 51.45%
+Brittleness Percentage: 48.55%
+
+Image: Group-F-240C-1h-part-4-1 (287).tiff
+Ductility Percentage: 59.68%
+Brittleness Percentage: 40.32%
+
+Image: Group-F-240C-1h-part-4-1 (288).tiff
+Ductility Percentage: 65.79%
+Brittleness Percentage: 34.21%
+
+Image: Group-F-240C-1h-part-4-1 (289).tiff
+Ductility Percentage: 64.08%
+Brittleness Percentage: 35.92%
+
+Image: Group-F-240C-1h-part-4-1 (29).tiff
+Ductility Percentage: 70.62%
+Brittleness Percentage: 29.38%
+
+Image: Group-F-240C-1h-part-4-1 (290).tiff
+Ductility Percentage: 62.12%
+Brittleness Percentage: 37.88%
+
+Image: Group-F-240C-1h-part-4-1 (291).tiff
+Ductility Percentage: 55.69%
+Brittleness Percentage: 44.31%
+
+Image: Group-F-240C-1h-part-4-1 (292).tiff
+Ductility Percentage: 60.35%
+Brittleness Percentage: 39.65%
+
+Image: Group-F-240C-1h-part-4-1 (293).tiff
+Ductility Percentage: 66.21%
+Brittleness Percentage: 33.79%
+
+Image: Group-F-240C-1h-part-4-1 (294).tiff
+Ductility Percentage: 62.30%
+Brittleness Percentage: 37.70%
+
+Image: Group-F-240C-1h-part-4-1 (295).tiff
+Ductility Percentage: 65.28%
+Brittleness Percentage: 34.72%
+
+Image: Group-F-240C-1h-part-4-1 (296).tiff
+Ductility Percentage: 64.51%
+Brittleness Percentage: 35.49%
+
+Image: Group-F-240C-1h-part-4-1 (297).tiff
+Ductility Percentage: 66.90%
+Brittleness Percentage: 33.10%
+
+Image: Group-F-240C-1h-part-4-1 (298).tiff
+Ductility Percentage: 62.49%
+Brittleness Percentage: 37.51%
+
+Image: Group-F-240C-1h-part-4-1 (299).tiff
+Ductility Percentage: 57.08%
+Brittleness Percentage: 42.92%
+
+Image: Group-F-240C-1h-part-4-1 (3).tiff
+Ductility Percentage: 50.98%
+Brittleness Percentage: 49.02%
+
+Image: Group-F-240C-1h-part-4-1 (30).tiff
+Ductility Percentage: 72.18%
+Brittleness Percentage: 27.82%
+
+Image: Group-F-240C-1h-part-4-1 (300).tiff
+Ductility Percentage: 61.35%
+Brittleness Percentage: 38.65%
+
+Image: Group-F-240C-1h-part-4-1 (301).tiff
+Ductility Percentage: 64.09%
+Brittleness Percentage: 35.91%
+
+Image: Group-F-240C-1h-part-4-1 (302).tiff
+Ductility Percentage: 63.74%
+Brittleness Percentage: 36.26%
+
+Image: Group-F-240C-1h-part-4-1 (303).tiff
+Ductility Percentage: 66.72%
+Brittleness Percentage: 33.28%
+
+Image: Group-F-240C-1h-part-4-1 (304).tiff
+Ductility Percentage: 64.43%
+Brittleness Percentage: 35.57%
+
+Image: Group-F-240C-1h-part-4-1 (305).tiff
+Ductility Percentage: 63.69%
+Brittleness Percentage: 36.31%
+
+Image: Group-F-240C-1h-part-4-1 (306).tiff
+Ductility Percentage: 63.48%
+Brittleness Percentage: 36.52%
+
+Image: Group-F-240C-1h-part-4-1 (307).tiff
+Ductility Percentage: 67.47%
+Brittleness Percentage: 32.53%
+
+Image: Group-F-240C-1h-part-4-1 (308).tiff
+Ductility Percentage: 62.95%
+Brittleness Percentage: 37.05%
+
+Image: Group-F-240C-1h-part-4-1 (309).tiff
+Ductility Percentage: 67.40%
+Brittleness Percentage: 32.60%
+
+Image: Group-F-240C-1h-part-4-1 (31).tiff
+Ductility Percentage: 68.87%
+Brittleness Percentage: 31.13%
+
+Image: Group-F-240C-1h-part-4-1 (310).tiff
+Ductility Percentage: 60.94%
+Brittleness Percentage: 39.06%
+
+Image: Group-F-240C-1h-part-4-1 (311).tiff
+Ductility Percentage: 61.59%
+Brittleness Percentage: 38.41%
+
+Image: Group-F-240C-1h-part-4-1 (312).tiff
+Ductility Percentage: 63.04%
+Brittleness Percentage: 36.96%
+
+Image: Group-F-240C-1h-part-4-1 (313).tiff
+Ductility Percentage: 58.80%
+Brittleness Percentage: 41.20%
+
+Image: Group-F-240C-1h-part-4-1 (314).tiff
+Ductility Percentage: 52.74%
+Brittleness Percentage: 47.26%
+
+Image: Group-F-240C-1h-part-4-1 (315).tiff
+Ductility Percentage: 59.49%
+Brittleness Percentage: 40.51%
+
+Image: Group-F-240C-1h-part-4-1 (316).tiff
+Ductility Percentage: 61.49%
+Brittleness Percentage: 38.51%
+
+Image: Group-F-240C-1h-part-4-1 (317).tiff
+Ductility Percentage: 63.37%
+Brittleness Percentage: 36.63%
+
+Image: Group-F-240C-1h-part-4-1 (318).tiff
+Ductility Percentage: 65.80%
+Brittleness Percentage: 34.20%
+
+Image: Group-F-240C-1h-part-4-1 (319).tiff
+Ductility Percentage: 66.71%
+Brittleness Percentage: 33.29%
+
+Image: Group-F-240C-1h-part-4-1 (32).tiff
+Ductility Percentage: 62.89%
+Brittleness Percentage: 37.11%
+
+Image: Group-F-240C-1h-part-4-1 (320).tiff
+Ductility Percentage: 64.83%
+Brittleness Percentage: 35.17%
+
+Image: Group-F-240C-1h-part-4-1 (321).tiff
+Ductility Percentage: 67.74%
+Brittleness Percentage: 32.26%
+
+Image: Group-F-240C-1h-part-4-1 (322).tiff
+Ductility Percentage: 72.86%
+Brittleness Percentage: 27.14%
+
+Image: Group-F-240C-1h-part-4-1 (323).tiff
+Ductility Percentage: 68.25%
+Brittleness Percentage: 31.75%
+
+Image: Group-F-240C-1h-part-4-1 (324).tiff
+Ductility Percentage: 63.32%
+Brittleness Percentage: 36.68%
+
+Image: Group-F-240C-1h-part-4-1 (325).tiff
+Ductility Percentage: 65.67%
+Brittleness Percentage: 34.33%
+
+Image: Group-F-240C-1h-part-4-1 (326).tiff
+Ductility Percentage: 67.34%
+Brittleness Percentage: 32.66%
+
+Image: Group-F-240C-1h-part-4-1 (327).tiff
+Ductility Percentage: 69.58%
+Brittleness Percentage: 30.42%
+
+Image: Group-F-240C-1h-part-4-1 (328).tiff
+Ductility Percentage: 68.69%
+Brittleness Percentage: 31.31%
+
+Image: Group-F-240C-1h-part-4-1 (329).tiff
+Ductility Percentage: 67.65%
+Brittleness Percentage: 32.35%
+
+Image: Group-F-240C-1h-part-4-1 (33).tiff
+Ductility Percentage: 64.41%
+Brittleness Percentage: 35.59%
+
+Image: Group-F-240C-1h-part-4-1 (330).tiff
+Ductility Percentage: 64.05%
+Brittleness Percentage: 35.95%
+
+Image: Group-F-240C-1h-part-4-1 (331).tiff
+Ductility Percentage: 66.25%
+Brittleness Percentage: 33.75%
+
+Image: Group-F-240C-1h-part-4-1 (332).tiff
+Ductility Percentage: 66.25%
+Brittleness Percentage: 33.75%
+
+Image: Group-F-240C-1h-part-4-1 (333).tiff
+Ductility Percentage: 62.89%
+Brittleness Percentage: 37.11%
+
+Image: Group-F-240C-1h-part-4-1 (334).tiff
+Ductility Percentage: 64.66%
+Brittleness Percentage: 35.34%
+
+Image: Group-F-240C-1h-part-4-1 (335).tiff
+Ductility Percentage: 60.32%
+Brittleness Percentage: 39.68%
+
+Image: Group-F-240C-1h-part-4-1 (336).tiff
+Ductility Percentage: 56.87%
+Brittleness Percentage: 43.13%
+
+Image: Group-F-240C-1h-part-4-1 (337).tiff
+Ductility Percentage: 51.42%
+Brittleness Percentage: 48.58%
+
+Image: Group-F-240C-1h-part-4-1 (338).tiff
+Ductility Percentage: 53.12%
+Brittleness Percentage: 46.88%
+
+Image: Group-F-240C-1h-part-4-1 (339).tiff
+Ductility Percentage: 61.06%
+Brittleness Percentage: 38.94%
+
+Image: Group-F-240C-1h-part-4-1 (34).tiff
+Ductility Percentage: 62.43%
+Brittleness Percentage: 37.57%
+
+Image: Group-F-240C-1h-part-4-1 (340).tiff
+Ductility Percentage: 61.45%
+Brittleness Percentage: 38.55%
+
+Image: Group-F-240C-1h-part-4-1 (341).tiff
+Ductility Percentage: 66.27%
+Brittleness Percentage: 33.73%
+
+Image: Group-F-240C-1h-part-4-1 (342).tiff
+Ductility Percentage: 59.90%
+Brittleness Percentage: 40.10%
+
+Image: Group-F-240C-1h-part-4-1 (343).tiff
+Ductility Percentage: 59.31%
+Brittleness Percentage: 40.69%
+
+Image: Group-F-240C-1h-part-4-1 (344).tiff
+Ductility Percentage: 63.03%
+Brittleness Percentage: 36.97%
+
+Image: Group-F-240C-1h-part-4-1 (345).tiff
+Ductility Percentage: 60.25%
+Brittleness Percentage: 39.75%
+
+Image: Group-F-240C-1h-part-4-1 (346).tiff
+Ductility Percentage: 59.10%
+Brittleness Percentage: 40.90%
+
+Image: Group-F-240C-1h-part-4-1 (347).tiff
+Ductility Percentage: 54.86%
+Brittleness Percentage: 45.14%
+
+Image: Group-F-240C-1h-part-4-1 (348).tiff
+Ductility Percentage: 58.74%
+Brittleness Percentage: 41.26%
+
+Image: Group-F-240C-1h-part-4-1 (349).tiff
+Ductility Percentage: 59.71%
+Brittleness Percentage: 40.29%
+
+Image: Group-F-240C-1h-part-4-1 (35).tiff
+Ductility Percentage: 65.32%
+Brittleness Percentage: 34.68%
+
+Image: Group-F-240C-1h-part-4-1 (350).tiff
+Ductility Percentage: 58.84%
+Brittleness Percentage: 41.16%
+
+Image: Group-F-240C-1h-part-4-1 (351).tiff
+Ductility Percentage: 50.90%
+Brittleness Percentage: 49.10%
+
+Image: Group-F-240C-1h-part-4-1 (352).tiff
+Ductility Percentage: 54.04%
+Brittleness Percentage: 45.96%
+
+Image: Group-F-240C-1h-part-4-1 (353).tiff
+Ductility Percentage: 56.67%
+Brittleness Percentage: 43.33%
+
+Image: Group-F-240C-1h-part-4-1 (354).tiff
+Ductility Percentage: 57.53%
+Brittleness Percentage: 42.47%
+
+Image: Group-F-240C-1h-part-4-1 (355).tiff
+Ductility Percentage: 57.98%
+Brittleness Percentage: 42.02%
+
+Image: Group-F-240C-1h-part-4-1 (356).tiff
+Ductility Percentage: 64.22%
+Brittleness Percentage: 35.78%
+
+Image: Group-F-240C-1h-part-4-1 (357).tiff
+Ductility Percentage: 76.73%
+Brittleness Percentage: 23.27%
+
+Image: Group-F-240C-1h-part-4-1 (358).tiff
+Ductility Percentage: 76.55%
+Brittleness Percentage: 23.45%
+
+Image: Group-F-240C-1h-part-4-1 (359).tiff
+Ductility Percentage: 75.77%
+Brittleness Percentage: 24.23%
+
+Image: Group-F-240C-1h-part-4-1 (36).tiff
+Ductility Percentage: 65.84%
+Brittleness Percentage: 34.16%
+
+Image: Group-F-240C-1h-part-4-1 (360).tiff
+Ductility Percentage: 72.42%
+Brittleness Percentage: 27.58%
+
+Image: Group-F-240C-1h-part-4-1 (361).tiff
+Ductility Percentage: 70.72%
+Brittleness Percentage: 29.28%
+
+Image: Group-F-240C-1h-part-4-1 (362).tiff
+Ductility Percentage: 71.41%
+Brittleness Percentage: 28.59%
+
+Image: Group-F-240C-1h-part-4-1 (363).tiff
+Ductility Percentage: 64.39%
+Brittleness Percentage: 35.61%
+
+Image: Group-F-240C-1h-part-4-1 (364).tiff
+Ductility Percentage: 64.00%
+Brittleness Percentage: 36.00%
+
+Image: Group-F-240C-1h-part-4-1 (365).tiff
+Ductility Percentage: 63.17%
+Brittleness Percentage: 36.83%
+
+Image: Group-F-240C-1h-part-4-1 (366).tiff
+Ductility Percentage: 73.41%
+Brittleness Percentage: 26.59%
+
+Image: Group-F-240C-1h-part-4-1 (367).tiff
+Ductility Percentage: 68.61%
+Brittleness Percentage: 31.39%
+
+Image: Group-F-240C-1h-part-4-1 (368).tiff
+Ductility Percentage: 70.13%
+Brittleness Percentage: 29.87%
+
+Image: Group-F-240C-1h-part-4-1 (369).tiff
+Ductility Percentage: 71.43%
+Brittleness Percentage: 28.57%
+
+Image: Group-F-240C-1h-part-4-1 (37).tiff
+Ductility Percentage: 65.74%
+Brittleness Percentage: 34.26%
+
+Image: Group-F-240C-1h-part-4-1 (370).tiff
+Ductility Percentage: 68.92%
+Brittleness Percentage: 31.08%
+
+Image: Group-F-240C-1h-part-4-1 (371).tiff
+Ductility Percentage: 68.24%
+Brittleness Percentage: 31.76%
+
+Image: Group-F-240C-1h-part-4-1 (372).tiff
+Ductility Percentage: 68.95%
+Brittleness Percentage: 31.05%
+
+Image: Group-F-240C-1h-part-4-1 (373).tiff
+Ductility Percentage: 70.11%
+Brittleness Percentage: 29.89%
+
+Image: Group-F-240C-1h-part-4-1 (374).tiff
+Ductility Percentage: 68.43%
+Brittleness Percentage: 31.57%
+
+Image: Group-F-240C-1h-part-4-1 (375).tiff
+Ductility Percentage: 68.81%
+Brittleness Percentage: 31.19%
+
+Image: Group-F-240C-1h-part-4-1 (376).tiff
+Ductility Percentage: 67.91%
+Brittleness Percentage: 32.09%
+
+Image: Group-F-240C-1h-part-4-1 (377).tiff
+Ductility Percentage: 75.25%
+Brittleness Percentage: 24.75%
+
+Image: Group-F-240C-1h-part-4-1 (378).tiff
+Ductility Percentage: 72.61%
+Brittleness Percentage: 27.39%
+
+Image: Group-F-240C-1h-part-4-1 (379).tiff
+Ductility Percentage: 71.49%
+Brittleness Percentage: 28.51%
+
+Image: Group-F-240C-1h-part-4-1 (38).tiff
+Ductility Percentage: 64.43%
+Brittleness Percentage: 35.57%
+
+Image: Group-F-240C-1h-part-4-1 (380).tiff
+Ductility Percentage: 68.20%
+Brittleness Percentage: 31.80%
+
+Image: Group-F-240C-1h-part-4-1 (381).tiff
+Ductility Percentage: 69.45%
+Brittleness Percentage: 30.55%
+
+Image: Group-F-240C-1h-part-4-1 (382).tiff
+Ductility Percentage: 73.02%
+Brittleness Percentage: 26.98%
+
+Image: Group-F-240C-1h-part-4-1 (383).tiff
+Ductility Percentage: 74.29%
+Brittleness Percentage: 25.71%
+
+Image: Group-F-240C-1h-part-4-1 (384).tiff
+Ductility Percentage: 71.57%
+Brittleness Percentage: 28.43%
+
+Image: Group-F-240C-1h-part-4-1 (385).tiff
+Ductility Percentage: 72.70%
+Brittleness Percentage: 27.30%
+
+Image: Group-F-240C-1h-part-4-1 (386).tiff
+Ductility Percentage: 72.96%
+Brittleness Percentage: 27.04%
+
+Image: Group-F-240C-1h-part-4-1 (387).tiff
+Ductility Percentage: 72.72%
+Brittleness Percentage: 27.28%
+
+Image: Group-F-240C-1h-part-4-1 (388).tiff
+Ductility Percentage: 69.94%
+Brittleness Percentage: 30.06%
+
+Image: Group-F-240C-1h-part-4-1 (389).tiff
+Ductility Percentage: 72.12%
+Brittleness Percentage: 27.88%
+
+Image: Group-F-240C-1h-part-4-1 (39).tiff
+Ductility Percentage: 70.11%
+Brittleness Percentage: 29.89%
+
+Image: Group-F-240C-1h-part-4-1 (390).tiff
+Ductility Percentage: 70.85%
+Brittleness Percentage: 29.15%
+
+Image: Group-F-240C-1h-part-4-1 (391).tiff
+Ductility Percentage: 51.88%
+Brittleness Percentage: 48.12%
+
+Image: Group-F-240C-1h-part-4-1 (392).tiff
+Ductility Percentage: 50.53%
+Brittleness Percentage: 49.47%
+
+Image: Group-F-240C-1h-part-4-1 (393).tiff
+Ductility Percentage: 69.11%
+Brittleness Percentage: 30.89%
+
+Image: Group-F-240C-1h-part-4-1 (394).tiff
+Ductility Percentage: 64.24%
+Brittleness Percentage: 35.76%
+
+Image: Group-F-240C-1h-part-4-1 (395).tiff
+Ductility Percentage: 68.04%
+Brittleness Percentage: 31.96%
+
+Image: Group-F-240C-1h-part-4-1 (396).tiff
+Ductility Percentage: 68.10%
+Brittleness Percentage: 31.90%
+
+Image: Group-F-240C-1h-part-4-1 (397).tiff
+Ductility Percentage: 66.94%
+Brittleness Percentage: 33.06%
+
+Image: Group-F-240C-1h-part-4-1 (398).tiff
+Ductility Percentage: 53.43%
+Brittleness Percentage: 46.57%
+
+Image: Group-F-240C-1h-part-4-1 (399).tiff
+Ductility Percentage: 42.67%
+Brittleness Percentage: 57.33%
+
+Image: Group-F-240C-1h-part-4-1 (4).tiff
+Ductility Percentage: 55.11%
+Brittleness Percentage: 44.89%
+
+Image: Group-F-240C-1h-part-4-1 (40).tiff
+Ductility Percentage: 73.09%
+Brittleness Percentage: 26.91%
+
+Image: Group-F-240C-1h-part-4-1 (400).tiff
+Ductility Percentage: 53.24%
+Brittleness Percentage: 46.76%
+
+Image: Group-F-240C-1h-part-4-1 (401).tiff
+Ductility Percentage: 52.87%
+Brittleness Percentage: 47.13%
+
+Image: Group-F-240C-1h-part-4-1 (402).tiff
+Ductility Percentage: 47.84%
+Brittleness Percentage: 52.16%
+
+Image: Group-F-240C-1h-part-4-1 (41).tiff
+Ductility Percentage: 76.84%
+Brittleness Percentage: 23.16%
+
+Image: Group-F-240C-1h-part-4-1 (42).tiff
+Ductility Percentage: 85.78%
+Brittleness Percentage: 14.22%
+
+Image: Group-F-240C-1h-part-4-1 (43).tiff
+Ductility Percentage: 58.93%
+Brittleness Percentage: 41.07%
+
+Image: Group-F-240C-1h-part-4-1 (44).tiff
+Ductility Percentage: 51.86%
+Brittleness Percentage: 48.14%
+
+Image: Group-F-240C-1h-part-4-1 (45).tiff
+Ductility Percentage: 55.85%
+Brittleness Percentage: 44.15%
+
+Image: Group-F-240C-1h-part-4-1 (46).tiff
+Ductility Percentage: 56.72%
+Brittleness Percentage: 43.28%
+
+Image: Group-F-240C-1h-part-4-1 (47).tiff
+Ductility Percentage: 55.56%
+Brittleness Percentage: 44.44%
+
+Image: Group-F-240C-1h-part-4-1 (48).tiff
+Ductility Percentage: 58.11%
+Brittleness Percentage: 41.89%
+
+Image: Group-F-240C-1h-part-4-1 (49).tiff
+Ductility Percentage: 55.79%
+Brittleness Percentage: 44.21%
+
+Image: Group-F-240C-1h-part-4-1 (5).tiff
+Ductility Percentage: 55.17%
+Brittleness Percentage: 44.83%
+
+Image: Group-F-240C-1h-part-4-1 (50).tiff
+Ductility Percentage: 58.48%
+Brittleness Percentage: 41.52%
+
+Image: Group-F-240C-1h-part-4-1 (51).tiff
+Ductility Percentage: 49.76%
+Brittleness Percentage: 50.24%
+
+Image: Group-F-240C-1h-part-4-1 (52).tiff
+Ductility Percentage: 60.35%
+Brittleness Percentage: 39.65%
+
+Image: Group-F-240C-1h-part-4-1 (53).tiff
+Ductility Percentage: 48.29%
+Brittleness Percentage: 51.71%
+
+Image: Group-F-240C-1h-part-4-1 (54).tiff
+Ductility Percentage: 79.88%
+Brittleness Percentage: 20.12%
+
+Image: Group-F-240C-1h-part-4-1 (55).tiff
+Ductility Percentage: 74.77%
+Brittleness Percentage: 25.23%
+
+Image: Group-F-240C-1h-part-4-1 (56).tiff
+Ductility Percentage: 74.94%
+Brittleness Percentage: 25.06%
+
+Image: Group-F-240C-1h-part-4-1 (57).tiff
+Ductility Percentage: 73.45%
+Brittleness Percentage: 26.55%
+
+Image: Group-F-240C-1h-part-4-1 (58).tiff
+Ductility Percentage: 70.90%
+Brittleness Percentage: 29.10%
+
+Image: Group-F-240C-1h-part-4-1 (59).tiff
+Ductility Percentage: 73.27%
+Brittleness Percentage: 26.73%
+
+Image: Group-F-240C-1h-part-4-1 (6).tiff
+Ductility Percentage: 49.30%
+Brittleness Percentage: 50.70%
+
+Image: Group-F-240C-1h-part-4-1 (60).tiff
+Ductility Percentage: 73.19%
+Brittleness Percentage: 26.81%
+
+Image: Group-F-240C-1h-part-4-1 (61).tiff
+Ductility Percentage: 71.83%
+Brittleness Percentage: 28.17%
+
+Image: Group-F-240C-1h-part-4-1 (62).tiff
+Ductility Percentage: 77.63%
+Brittleness Percentage: 22.37%
+
+Image: Group-F-240C-1h-part-4-1 (63).tiff
+Ductility Percentage: 82.35%
+Brittleness Percentage: 17.65%
+
+Image: Group-F-240C-1h-part-4-1 (64).tiff
+Ductility Percentage: 77.83%
+Brittleness Percentage: 22.17%
+
+Image: Group-F-240C-1h-part-4-1 (65).tiff
+Ductility Percentage: 74.08%
+Brittleness Percentage: 25.92%
+
+Image: Group-F-240C-1h-part-4-1 (66).tiff
+Ductility Percentage: 72.22%
+Brittleness Percentage: 27.78%
+
+Image: Group-F-240C-1h-part-4-1 (67).tiff
+Ductility Percentage: 79.39%
+Brittleness Percentage: 20.61%
+
+Image: Group-F-240C-1h-part-4-1 (68).tiff
+Ductility Percentage: 76.02%
+Brittleness Percentage: 23.98%
+
+Image: Group-F-240C-1h-part-4-1 (69).tiff
+Ductility Percentage: 75.06%
+Brittleness Percentage: 24.94%
+
+Image: Group-F-240C-1h-part-4-1 (7).tiff
+Ductility Percentage: 67.52%
+Brittleness Percentage: 32.48%
+
+Image: Group-F-240C-1h-part-4-1 (70).tiff
+Ductility Percentage: 73.03%
+Brittleness Percentage: 26.97%
+
+Image: Group-F-240C-1h-part-4-1 (71).tiff
+Ductility Percentage: 85.18%
+Brittleness Percentage: 14.82%
+
+Image: Group-F-240C-1h-part-4-1 (72).tiff
+Ductility Percentage: 85.31%
+Brittleness Percentage: 14.69%
+
+Image: Group-F-240C-1h-part-4-1 (73).tiff
+Ductility Percentage: 72.50%
+Brittleness Percentage: 27.50%
+
+Image: Group-F-240C-1h-part-4-1 (74).tiff
+Ductility Percentage: 81.83%
+Brittleness Percentage: 18.17%
+
+Image: Group-F-240C-1h-part-4-1 (75).tiff
+Ductility Percentage: 80.02%
+Brittleness Percentage: 19.98%
+
+Image: Group-F-240C-1h-part-4-1 (76).tiff
+Ductility Percentage: 81.75%
+Brittleness Percentage: 18.25%
+
+Image: Group-F-240C-1h-part-4-1 (77).tiff
+Ductility Percentage: 80.72%
+Brittleness Percentage: 19.28%
+
+Image: Group-F-240C-1h-part-4-1 (78).tiff
+Ductility Percentage: 77.26%
+Brittleness Percentage: 22.74%
+
+Image: Group-F-240C-1h-part-4-1 (79).tiff
+Ductility Percentage: 69.14%
+Brittleness Percentage: 30.86%
+
+Image: Group-F-240C-1h-part-4-1 (8).tiff
+Ductility Percentage: 66.04%
+Brittleness Percentage: 33.96%
+
+Image: Group-F-240C-1h-part-4-1 (80).tiff
+Ductility Percentage: 72.61%
+Brittleness Percentage: 27.39%
+
+Image: Group-F-240C-1h-part-4-1 (81).tiff
+Ductility Percentage: 71.47%
+Brittleness Percentage: 28.53%
+
+Image: Group-F-240C-1h-part-4-1 (82).tiff
+Ductility Percentage: 70.95%
+Brittleness Percentage: 29.05%
+
+Image: Group-F-240C-1h-part-4-1 (83).tiff
+Ductility Percentage: 70.33%
+Brittleness Percentage: 29.67%
+
+Image: Group-F-240C-1h-part-4-1 (84).tiff
+Ductility Percentage: 74.00%
+Brittleness Percentage: 26.00%
+
+Image: Group-F-240C-1h-part-4-1 (85).tiff
+Ductility Percentage: 69.03%
+Brittleness Percentage: 30.97%
+
+Image: Group-F-240C-1h-part-4-1 (86).tiff
+Ductility Percentage: 61.87%
+Brittleness Percentage: 38.13%
+
+Image: Group-F-240C-1h-part-4-1 (87).tiff
+Ductility Percentage: 66.41%
+Brittleness Percentage: 33.59%
+
+Image: Group-F-240C-1h-part-4-1 (88).tiff
+Ductility Percentage: 62.84%
+Brittleness Percentage: 37.16%
+
+Image: Group-F-240C-1h-part-4-1 (89).tiff
+Ductility Percentage: 57.85%
+Brittleness Percentage: 42.15%
+
+Image: Group-F-240C-1h-part-4-1 (9).tiff
+Ductility Percentage: 65.40%
+Brittleness Percentage: 34.60%
+
+Image: Group-F-240C-1h-part-4-1 (90).tiff
+Ductility Percentage: 72.79%
+Brittleness Percentage: 27.21%
+
+Image: Group-F-240C-1h-part-4-1 (91).tiff
+Ductility Percentage: 73.90%
+Brittleness Percentage: 26.10%
+
+Image: Group-F-240C-1h-part-4-1 (92).tiff
+Ductility Percentage: 73.81%
+Brittleness Percentage: 26.19%
+
+Image: Group-F-240C-1h-part-4-1 (93).tiff
+Ductility Percentage: 71.40%
+Brittleness Percentage: 28.60%
+
+Image: Group-F-240C-1h-part-4-1 (94).tiff
+Ductility Percentage: 67.83%
+Brittleness Percentage: 32.17%
+
+Image: Group-F-240C-1h-part-4-1 (95).tiff
+Ductility Percentage: 72.94%
+Brittleness Percentage: 27.06%
+
+Image: Group-F-240C-1h-part-4-1 (96).tiff
+Ductility Percentage: 73.32%
+Brittleness Percentage: 26.68%
+
+Image: Group-F-240C-1h-part-4-1 (97).tiff
+Ductility Percentage: 73.06%
+Brittleness Percentage: 26.94%
+
+Image: Group-F-240C-1h-part-4-1 (98).tiff
+Ductility Percentage: 71.91%
+Brittleness Percentage: 28.09%
+
+Image: Group-F-240C-1h-part-4-1 (99).tiff
+Ductility Percentage: 67.09%
+Brittleness Percentage: 32.91%
+
