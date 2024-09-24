@@ -28,7 +28,7 @@ So in simple terms - larger crack/fracture patterns = brittle regions, while smo
 
 ## Additional Considerations :- 
 
-**Standards:** Following established testing standards like `ASTM E23` is crucial to ensure accurate and reproducible results.
+**Standards:** Following established testing standards like ASTM E23 is crucial to ensure accurate and reproducible results.
 **Impact Testing Machine:** The Charpy test requires specialized equipment to deliver the standardized impact load.
 **Safety Precautions:** Proper safety protocols must be followed during sample preparation, testing, and handling fractured specimens.
 
