@@ -4,10 +4,10 @@ This research is the integration of a set of elements in a system of capturing, 
 # PROBLEM STATEMENT AND MOTIVATION :- 
 Determining ductility and brittleness of materials accurately is crucial for various engineering applications. While standard tensile tests provide valuable insights, they often lack the dynamic loading conditions present in real-world scenarios. This gap necessitates a reliable method to assess a material's behavior under impact loads.
 The current project focuses on utilizing the Charpy impact test to effectively determine the ductility and brittleness of materials. Here's why this project holds significant importance:
-Safety-Critical Applications: Understanding a material's ductility and brittleness is paramount in industries like construction, transportation, and pressure vessel manufacturing. These industries rely on materials that can withstand sudden impacts without catastrophic failure.
-Ductile-to-Brittle Transition Temperature (DBTT): Charpy impact tests enable the identification of the DBTT, a critical temperature at which a material's behavior shifts from ductile to brittle. This information is vital for safe operation in environments with fluctuating temperatures.
-Material Selection and Design Optimization: By quantifying ductility and brittleness, engineers can make informed decisions regarding material selection for specific applications. This leads to safer, more reliable, and potentially lighter designs.
-Quality Control: Charpy impact tests serve as a quality control tool, ensuring materials meet the specified toughness requirements and minimizing the risk of unexpected failures.
+**Safety-Critical Applications:** Understanding a material's ductility and brittleness is paramount in industries like construction, transportation, and pressure vessel manufacturing. These industries rely on materials that can withstand sudden impacts without catastrophic failure.
+**Ductile-to-Brittle Transition Temperature (DBTT):** Charpy impact tests enable the identification of the DBTT, a critical temperature at which a material's behavior shifts from ductile to brittle. This information is vital for safe operation in environments with fluctuating temperatures.
+**Material Selection and Design Optimization:** By quantifying ductility and brittleness, engineers can make informed decisions regarding material selection for specific applications. This leads to safer, more reliable, and potentially lighter designs.
+**Quality Control:** Charpy impact tests serve as a quality control tool, ensuring materials meet the specified toughness requirements and minimizing the risk of unexpected failures.
 
 # ABOUT THE PROJECT :- 
 The brittle fractures leave behind larger, more noticeable patterns or marks on the broken surface compared to ductile fractures.
@@ -18,19 +18,19 @@ So in simple terms - larger crack/fracture patterns = brittle regions, while smo
 
 # OBJECTIVES :-
 
-1.Material Selection: You'll likely choose different materials (e.g., steel, aluminum) to analyze their ductile-to-brittle transition behavior.
+**Material Selection:** You'll likely choose different materials (e.g., steel, aluminum) to analyze their ductile-to-brittle transition behavior.
 
-2.Temperature Variation: Charpy tests are often conducted at various temperatures to pinpoint the ductile-to-brittle transition temperature (DBTT). This is the temperature at which a material's fracture behavior significantly changes.
+**Temperature Variation:** Charpy tests are often conducted at various temperatures to pinpoint the ductile-to-brittle transition temperature (DBTT). This is the temperature at which a material's fracture behavior significantly changes.
 
-3.Data Analysis: The impact energy values obtained from the tests will be plotted against temperature. This helps visualize the transition and identify the DBTT.
+**Data Analysis:** The impact energy values obtained from the tests will be plotted against temperature. This helps visualize the transition and identify the DBTT.
 
-4.Fracture Surface Examination: Analyzing the fracture surfaces of the tested specimens can provide additional insights. Ductile fractures typically exhibit a rough, shear-like appearance, while brittle fractures are often smooth and flat.
+**Fracture Surface Examination:** Analyzing the fracture surfaces of the tested specimens can provide additional insights. Ductile fractures typically exhibit a rough, shear-like appearance, while brittle fractures are often smooth and flat.
 
 ## Additional Considerations :- 
 
-1.Standards: Following established testing standards like ASTM E23 is crucial to ensure accurate and reproducible results.
-2.Impact Testing Machine: The Charpy test requires specialized equipment to deliver the standardized impact load.
-3.Safety Precautions: Proper safety protocols must be followed during sample preparation, testing, and handling fractured specimens.
+**Standards:** Following established testing standards like ASTM E23 is crucial to ensure accurate and reproducible results.
+**Impact Testing Machine:** The Charpy test requires specialized equipment to deliver the standardized impact load.
+**Safety Precautions:** Proper safety protocols must be followed during sample preparation, testing, and handling fractured specimens.
 
 # CONCLUSION :- 
 
